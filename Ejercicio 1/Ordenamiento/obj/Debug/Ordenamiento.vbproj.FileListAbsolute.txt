@@ -1,0 +1,10 @@
+c:\users\marcos\documents\visual studio 2012\Projects\Ordenamiento\Ordenamiento\bin\Debug\Ordenamiento.exe.config
+c:\users\marcos\documents\visual studio 2012\Projects\Ordenamiento\Ordenamiento\bin\Debug\Ordenamiento.exe
+c:\users\marcos\documents\visual studio 2012\Projects\Ordenamiento\Ordenamiento\bin\Debug\Ordenamiento.pdb
+c:\users\marcos\documents\visual studio 2012\Projects\Ordenamiento\Ordenamiento\bin\Debug\Ordenamiento.xml
+c:\users\marcos\documents\visual studio 2012\Projects\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.Form1.resources
+c:\users\marcos\documents\visual studio 2012\Projects\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.Resources.resources
+c:\users\marcos\documents\visual studio 2012\Projects\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.vbproj.GenerateResource.Cache
+c:\users\marcos\documents\visual studio 2012\Projects\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.exe
+c:\users\marcos\documents\visual studio 2012\Projects\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.xml
+c:\users\marcos\documents\visual studio 2012\Projects\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.pdb
