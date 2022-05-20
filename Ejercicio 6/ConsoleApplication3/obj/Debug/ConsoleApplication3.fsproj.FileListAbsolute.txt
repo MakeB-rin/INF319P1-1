@@ -1,0 +1,10 @@
+c:\users\marcos\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\marcos\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.XML
+c:\users\marcos\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\marcos\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\marcos\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\FSharp.Core.dll
+c:\users\marcos\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\FSharp.Core.xml
+c:\users\marcos\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\es\FSharp.Core.resources.dll
+c:\users\marcos\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.fsprojResolveAssemblyReference.cache
+c:\users\marcos\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\marcos\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
